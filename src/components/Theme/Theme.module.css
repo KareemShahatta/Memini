@@ -1,0 +1,11 @@
+.Theme {
+  display: flex;
+  gap: 8px;
+}
+
+.Selector
+{
+    border-radius: 16px;
+    text-align: center;
+    width: 150px;
+}
